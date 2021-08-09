@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T18:29:41.625Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="0xpjM_NoCYPDxO8n14j7" version="14.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-09T18:31:28.147Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="dM4cY8_BKkO0DBFj0uin" version="14.9.5" type="github">
   <diagram id="2QXHFpq1T3r42v7fcfBo" name="Page-1">
     <mxGraphModel dx="1298" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
             <mxPoint x="56" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j3XKk895XILen28EUo3r-17" value="&lt;b&gt;nginx&lt;/b&gt;&lt;br&gt;&lt;span&gt;reserve proxy&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="j3XKk895XILen28EUo3r-17" value="&lt;b&gt;nginx&lt;/b&gt;&lt;br&gt;&lt;span&gt;reverse proxy&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="110" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="sKWBqNM1h_ZveBFjO5LD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.4;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j3XKk895XILen28EUo3r-18" target="sKWBqNM1h_ZveBFjO5LD-109">
@@ -193,7 +193,7 @@
             <mxPoint x="56" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sKWBqNM1h_ZveBFjO5LD-120" value="&lt;b&gt;nginx&lt;/b&gt;&lt;br&gt;&lt;span&gt;reserve proxy&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sKWBqNM1h_ZveBFjO5LD-120" value="&lt;b&gt;nginx&lt;/b&gt;&lt;br&gt;reverse&lt;span&gt;&amp;nbsp;proxy&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="630" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="sKWBqNM1h_ZveBFjO5LD-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.4;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sKWBqNM1h_ZveBFjO5LD-123" target="sKWBqNM1h_ZveBFjO5LD-112">
